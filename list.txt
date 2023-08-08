@@ -1,0 +1,2 @@
+ssh_logs,/data/logs/ssh_logs,30
+system_logs,/var/log,30
