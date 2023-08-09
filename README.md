@@ -15,9 +15,11 @@
 ssh_logs,/data/logs/ssh_logs,30
 system_logs,/var/log,30
 ```
-  
+
+# And..
 - Feel free to modify and customize the code as per your requirements.
-- Let me know if there are any changes required or additional features need it.
+- Please let me know if any changes are required or if additional features are needed.
+- If you find this helpful, please consider giving it a "star"🌟 to support further improvements.
 
 
 
